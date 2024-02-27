@@ -1,1 +1,2 @@
-Geospicial segmentation on urban area 
+** Geospatial segmentation on the urban area 
+**
